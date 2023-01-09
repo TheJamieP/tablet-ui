@@ -49,10 +49,10 @@ body {
     background-size: 900px 100%;
 }
 .container .background-img-1 {
-    background-image: url("Banshee_stock.png");
+    background-image: url("imgs/Banshee_stock.png");
 }
 .container .foreground-img-1 {
-    background-image: url("Banshee_upgraded.png");
+    background-image: url("imgs/Banshee_upgraded.png");
     width: 50%;
 }
 .container .slider {
